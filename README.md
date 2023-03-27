@@ -1,6 +1,6 @@
 # SML_forged_banknotes
 
-Comparison of numerous supervised machne learning classifier models (**Logistic Regression**, **K-Nearest Neighbors**, **Support Vector Machines** and **Decision Trees**) predicting if a **banknote** is genuine or not based on the dataset from OpenML containing **wavelet analysis** results for genuine and forged banknotes.
+Comparison of numerous supervised machine learning classifier models (**Logistic Regression**, **K-Nearest Neighbors**, **Support Vector Machines** and **Decision Trees**) predicting if a **banknote** is genuine or not based on the dataset from OpenML containing **wavelet analysis** results for genuine and forged banknotes.
 
 ## The repository contains:
 1. Jupyter notebook **SML_forged_banknotes.ipynb** with all the python code, visualizations, results and commentaries.
