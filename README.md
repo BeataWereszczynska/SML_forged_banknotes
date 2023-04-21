@@ -15,4 +15,4 @@ Available at https://www.openml.org/search?type=data&sort=runs&id=1462&status=ac
 The project is licensed under the **MIT license**. See the LICENSE file for license rights and limitations.
 
 ## You may also like
-**UML_forged_banknotes** - UML dimensionality reduction and clustering models for predicting if a banknote is genuine or not based on the dataset from OpenML containing wavelet analysis results for genuine and forged banknotes - practical exercise (https://github.com/BeataWereszczynska/UML_forged_banknotes).
+**UML_forged_banknotes** - Unsupervised machine learning dimensionality reduction and clustering models for predicting if a banknote is genuine or not based on the dataset from OpenML containing wavelet analysis results for genuine and forged banknotes - practical exercise (https://github.com/BeataWereszczynska/UML_forged_banknotes).
